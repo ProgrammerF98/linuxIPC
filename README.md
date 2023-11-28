@@ -1,2 +1,2 @@
 # linuxIPC
-Course for Linux Inter Process Comunnication from Scratch
+Linux Inter Process Communication Project
